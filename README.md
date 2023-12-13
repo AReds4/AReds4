@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I currently study Software Engineering at ASU</h3>
+<h3 align="center">Currently studying Software Engineering at ASU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areds4&label=Profile%20views&color=0e75b6&style=flat" alt="areds4" /> </p>
 
